@@ -224,8 +224,8 @@
     <jakarta.xml.ws-api.version>4.0.2</jakarta.xml.ws-api.version>
     <javax.ws.rs-api.version>2.1.1</javax.ws.rs-api.version>
     <jaxb-api.version>2.3.1</jaxb-api.version>
-    <jaxb-impl-2.version>2.3.9</jaxb-impl-2.version>
-    <jaxb-impl-4.version>4.0.3</jaxb-impl-4.version>
+    <jaxb-impl-2.version>4.0.6</jaxb-impl-2.version>
+    <jaxb-impl-4.version>4.0.6</jaxb-impl-4.version>
     <jaxws-api.version>2.3.1</jaxws-api.version>
     <jersey-client.version>1.19.4</jersey-client.version>
     <jsr311-api.version>1.1.1</jsr311-api.version>
